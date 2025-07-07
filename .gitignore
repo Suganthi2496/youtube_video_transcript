@@ -1,1 +1,3 @@
 backend/venv/
+google-credentials.json
+.env
