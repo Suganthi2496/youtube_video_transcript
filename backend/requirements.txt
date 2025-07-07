@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+youtube_dl
+sqlalchemy
+aiofiles
+python-multipart
+python-dotenv
+assemblyai
+torch
+openai-whisper
+google-cloud-speech 
